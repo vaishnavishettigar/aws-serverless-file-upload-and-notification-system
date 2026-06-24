@@ -27,6 +27,14 @@ See the architecture folder for workflow diagrams.
 - Weekly upload summary emails
 - Fully serverless architecture
 
+## Screenshots
+
+- S3 Buckets
+- API Gateway
+- Lambda Functions
+- DynamoDB Tables
+- Architecture Diagram
+
 ## Project Structure
 
 frontend/ - Web application files
